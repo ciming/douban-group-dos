@@ -1,0 +1,15 @@
+{
+  "name": "douban",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "blessed": "^0.1.81",
+    "cheerio": "^1.0.0-rc.9",
+    "inquirer": "^8.1.0",
+    "prompt": "^1.1.0",
+    "term-list": "^0.2.1",
+    "term-list-scrollable": "^0.1.3"
+  }
+}

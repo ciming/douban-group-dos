@@ -1,0 +1,19 @@
+# 豆瓣小组dos版
+
+## 命令 
+运行
+```bash
+node index.mjs
+```
+
+## 快捷键
+
+<kbd>w</kbd>  向上滚动
+
+<kbd>s</kbd>  向下滚动
+
+<kbd>i</kbd>  定位到输入组
+
+<kbd>l</kbd>  定位到列表
+
+<kbd>p</kbd>  定位到帖子
