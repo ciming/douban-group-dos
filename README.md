@@ -8,10 +8,6 @@ node index.mjs
 
 ## 快捷键
 
-<kbd>w</kbd>  向上滚动
-
-<kbd>s</kbd>  向下滚动
-
 <kbd>i</kbd>  定位到输入组
 
 <kbd>enter</kbd>  查看帖子
