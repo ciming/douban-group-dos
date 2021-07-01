@@ -8,6 +8,7 @@
     "blessed": "^0.1.81",
     "chalk": "^4.1.1",
     "cheerio": "^1.0.0-rc.9",
+    "image-to-ascii": "^3.0.13",
     "inquirer": "^8.1.0",
     "prompt": "^1.1.0",
     "term-list": "^0.2.1",
